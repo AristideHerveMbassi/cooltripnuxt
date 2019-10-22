@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"],
+      "~~/*": ["./*"],
+      "@@/*": ["./*"]
+    }
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"]
+},
+{"@context":"/api/contexts/User",
+  "@id":"/api/users/15",
+  "@type":"User",
+  "id":15,
+  "name":"Sophie-Nath Herve",
+  "surname":"Normand",
+  "phoneNumber":"+2861902424827",
+  "password":"M_/?GllH9@3!TugjW:L",
+  "uid":"40388658-06de-3d88-98f8-826d4b91bfdb",
+  "roles":[],
+}
